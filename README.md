@@ -31,5 +31,5 @@ The project was carried out in the subject of Basics of Programming.
 
 1) We go to a folder containing P3.c file
 2) We write the following commands in terminal:
-  - gcc -o P3.c P3
-  - ./P3
+   - gcc -o P3.c P3
+   - ./P3

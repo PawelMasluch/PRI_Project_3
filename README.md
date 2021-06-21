@@ -12,7 +12,8 @@ Projekt zrealizowano w ramach przedmiotu [PRI] Podstawy programowania.
 
 ## Jak uruchomić?
 
-1) Wchodzimy do katalogu z plikiem P3.c
+0) Uruchamiamy terminal
+1) Wchodzimy (w terminalu) do katalogu z plikiem P3.c
 2) W terminalu wpisujemy następujące komendy:
    - gcc -o P3.c P3
    - ./P3
@@ -29,7 +30,8 @@ The project was carried out in the subject of Basics of Programming.
 
 ## How to execute?
 
-1) We go to a folder containing P3.c file
+0) We open terminal
+1) We go (in a terminal) to a folder containing P3.c file
 2) We write the following commands in terminal:
    - gcc -o P3.c P3
    - ./P3

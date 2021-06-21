@@ -1,4 +1,4 @@
-# PRI_Project_3
+# PRI_Project_3 (pl)
 
 Copyright (C) Paweł Maśluch, 2021. All rights reserved.
 
@@ -16,6 +16,8 @@ Projekt zrealizowano w ramach przedmiotu [PRI] Podstawy programowania.
 2) W terminalu wpisujemy następujące komendy:
    gcc -o P3.c P3
    ./P3
+
+# PRI_Project_3 (en)
 
 Solving a system of linear equations via determinants' method in C programming language (Linux).
 

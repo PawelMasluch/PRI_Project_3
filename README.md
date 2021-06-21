@@ -10,7 +10,7 @@ Do obliczania wyznaczników używam rozwinięcia Laplace'a.
 
 Projekt zrealizowano w ramach przedmiotu [PRI] Podstawy programowania.
 
-# Jak uruchomić?
+## Jak uruchomić?
 
 1) Wchodzimy do katalogu z plikiem P3.c
 2) W terminalu wpisujemy następujące komendy:
@@ -25,7 +25,7 @@ I use Laplace expansion to compute determinants.
 
 The project was carried out in the subject of Basics of Programming.
 
-# How to execute?
+## How to execute?
 
 1) We go to a folder containing P3.c file
 2) We write the following commands in terminal:

@@ -20,6 +20,8 @@ Projekt zrealizowano w ramach przedmiotu [PRI] Podstawy programowania.
 
 # PRI_Project_3 (en)
 
+Copyright (C) Paweł Maśluch, 2021. All rights reserved.
+
 Solving a system of linear equations via determinants' method in C programming language (Linux).
 
 An input file can be created, for example, in vim text editor.

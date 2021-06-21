@@ -14,8 +14,8 @@ Projekt zrealizowano w ramach przedmiotu [PRI] Podstawy programowania.
 
 1) Wchodzimy do katalogu z plikiem P3.c
 2) W terminalu wpisujemy następujące komendy:
-   2.1) gcc -o P3.c P3
-   2.2) ./P3
+   2.1. gcc -o P3.c P3
+   2.2. ./P3
 
 # PRI_Project_3 (en)
 
@@ -31,5 +31,5 @@ The project was carried out in the subject of Basics of Programming.
 
 1) We go to a folder containing P3.c file
 2) We write the following commands in terminal:
-  2.1) gcc -o P3.c P3
-  2.2) ./P3
+  2.1. gcc -o P3.c P3
+  2.2. ./P3
